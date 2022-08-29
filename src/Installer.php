@@ -4,7 +4,7 @@ namespace AmphiBee\LaravelPintPreCommit;
 
 class Installer
 {
-    const FETCH_URL = "https://gist.githubusercontent.com/ogorzalka/2d355e35c9308cd274ce3232de4cd19c/raw/570166574382b71c59e8803d7343143979d13c61/pre-commit.sh";
+    const FETCH_URL = "https://gist.githubusercontent.com/JanniGrabe/c3e3e8989e13c0ec5062bd29befbeef7/raw/5423507c4837525a3e72b0a12c6039923ccb55c8/pre-commit.sh";
 
     public function install()
     {
